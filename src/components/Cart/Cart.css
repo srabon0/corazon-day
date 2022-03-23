@@ -1,5 +1,13 @@
 .cart{
     background-color: rgba(235, 187, 115, 0.945);
     height: calc(75vh);
+    position: sticky;
+    top: 20px;
+    border-radius:10px;
     
+    
+}
+
+.text{
+    margin:20px;
 }
